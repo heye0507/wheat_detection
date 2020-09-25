@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
 data/
 models/
+model/
 *.fth
+dev/
